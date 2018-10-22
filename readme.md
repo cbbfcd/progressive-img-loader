@@ -56,7 +56,7 @@ import img from './assets/imgs/b.png'
 
 ## native demo
 
-[demo](./demo/webpack.config.js)
+demo dir
 
 ## thx
 
