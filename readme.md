@@ -56,7 +56,7 @@ import img from './assets/imgs/b.png'
 
 ## native demo
 
-demo dir
+please check the demo dir
 
 ## thx
 
