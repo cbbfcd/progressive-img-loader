@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "base64": {
+      "type": "boolean"
+    }
+  },
+  "errorMessages": {
+    "base64": "should be {Boolean}"
+  },
+  "additionalProperties": true
+}
