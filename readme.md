@@ -1,5 +1,7 @@
 # progressive-img-loader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cbbfcd/progressive-img-loader.svg)](https://greenkeeper.io/)
+
 a webpack loader for progressive image loading. 
 
 this repo be aimed at how to write a webpack-loader.
