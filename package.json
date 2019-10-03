@@ -21,9 +21,9 @@
     "dist"
   ],
   "dependencies": {
-    "jimp": "^0.5.4",
+    "jimp": "^0.8.4",
     "loader-utils": "^1.1.0",
-    "schema-utils": "^1.0.0"
+    "schema-utils": "^2.4.1"
   },
   "peerDependencies": {
     "file-loader": "^2.0.0"
@@ -37,8 +37,8 @@
     "babel-cli": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "cross-env": "^5.2.0",
-    "del": "^3.0.0",
-    "del-cli": "^1.1.0"
+    "cross-env": "^6.0.3",
+    "del": "^5.1.0",
+    "del-cli": "^3.0.0"
   }
 }
